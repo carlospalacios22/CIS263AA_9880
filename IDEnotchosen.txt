@@ -1,1 +1,2 @@
 
+For this course, I was orginally going to use try something new and try Eclipse. But as it seems we are going to be using Github to submit assigments in the course, when I  looked haead on other lessons I switched over to Visual Studio code. The reasons I did not go for Eclipse is becuase it is not very easy to connect with Github in a seamlessly way. My other reason is that I have used visual studio code for other languages and I essentially have it customized to my liking. Escipse allows customization but not a whole lot to really make the coding experience better. 
